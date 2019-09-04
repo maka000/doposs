@@ -1,2 +1,2 @@
 console.log("hello Console");
-console.info("informations")
+// console.info("informations")
